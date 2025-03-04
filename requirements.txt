@@ -1,0 +1,13 @@
+# 
+langchain-ollama
+langchain
+ollama
+
+
+#
+googlesearch-python
+google
+
+
+
+
